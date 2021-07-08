@@ -1,6 +1,6 @@
 html {
-  min-height: 100%;
-  position: relative;
+	min-height: 100%;
+	position: relative;
 }
 
 * {
@@ -11,22 +11,21 @@ html {
 }
 
 p {
-  margin-bottom: 20px;
-  color: white
+	margin-bottom: 20px;
 }
 
 
 header {
-  width: 100%;
-  position: fixed;
-  z-index: 100;
+	width: 100%;
+	position: fixed;
+	z-index: 100;
 }
 
 
 #logo{
 	width: 300px;
-    height: 100px;
-    float: left;
+	height: 100px;
+	float: left;
 }
 
 body{
@@ -64,14 +63,9 @@ footer{
 	background-color: black;
 	left:0px;
 	bottom:0px;
-	color: white;
+	color: #01C700;
 	width: 100%;
 	padding-top: 10px;
 	padding-bottom: 10px;
 	position: fixed;
-
-}
-
-footer a{
-	color: white;
 }
