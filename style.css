@@ -1,10 +1,11 @@
 html {
+	font-family: oswald, helvetica, arial, sans-serif;
 	min-height: 100%;
 	position: relative;
 }
 
 * {
-	font-family: Arial, sans-serif;
+	font-family: oswald, helvetica, arial, sans-serif;
 	text-align: center;
 	padding: 0;
 	margin: 0;
@@ -48,7 +49,7 @@ main{
 }
 
 h1{
-	padding-top: 100px;
+	padding-top: 50px;
 	padding-bottom: 20px;
 	color: white;
 }
