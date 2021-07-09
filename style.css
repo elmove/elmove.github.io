@@ -1,11 +1,11 @@
 html {
-	font-family: oswald, helvetica, arial, sans-serif;
+	font-family: 'Bahianita', cursive;
+	font-size: 20px;
 	min-height: 100%;
 	position: relative;
 }
 
 * {
-	font-family: oswald, helvetica, arial, sans-serif;
 	text-align: center;
 	padding: 0;
 	margin: 0;
