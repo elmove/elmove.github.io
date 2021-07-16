@@ -21,7 +21,7 @@ p {
 
 header {
 	width: 100%;
-	position: absolute;
+	position: fixed;
 	z-index: 100;
 }
 
@@ -46,7 +46,7 @@ main{
 	background-color: rgba(0, 0, 0, 0.5);
 	padding-top: 100px;
 	color: white;
-	position: fixed;
+	position: absolute;
 }
 
 h1{
